@@ -13,6 +13,9 @@
     <Folder Include="Collections\" />
     <Folder Include="Inheritance\" />
     <Folder Include="Exception Handling\" />
+    <Reference Include="OpenWeatherAPI">
+      <HintPath>..\OpenWeatherAPI\bin\Debug\OpenWeatherAPI.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
